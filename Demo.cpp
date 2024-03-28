@@ -1,7 +1,10 @@
-#include<bits/stdc++.h>
-#include<iostream>
+#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-int main(){
-
-return 0;
+int main()
+{
+    int n;
+    cin >> n;
+    cout << n;
+    return 0;
 }
